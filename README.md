@@ -1,1 +1,8 @@
-# LOKET-PELITA
+# PEMOGRAMAN WEB
+# LOKET PELITA
+
+~~~
+NAMA : Andry Prasetia Perdana
+NIM  : 311910284
+KELAS: TI 19 C1
+~~~
